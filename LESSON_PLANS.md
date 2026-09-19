@@ -10,6 +10,8 @@
 
 **Classroom Routines**
 
+- **Vocabulary website:** [Unit 1 Vocabulary Studio](https://unit1vocabulary.netlify.app/)
+
 **Lesson Procedure**
 
 **1. Video Hook & Listening Purpose (5 minutes)**
