@@ -1,6 +1,6 @@
 # Unit 1 Vocabulary Lesson Plans
 
-> **Coverage principle:** Every class completes Lesson 1 and learns the 11 music words from **beat** through **track**, including **track**. Lessons 2 and 3 are optional consolidation lessons and introduce no new target vocabulary. The abstract nouns and mood/effect adjectives will be taught later in compulsory lessons.
+> **Coverage principle:** Every class completes Lesson 1 and learns the 11 music words from **beat** through **track**, including **track**. Lessons 2 and 3 are optional consolidation lessons and introduce no new assessed vocabulary. Their idiom warm-ups—**ring a bell** and **strike a chord**—are enrichment only. The abstract nouns and mood/effect adjectives will be taught later in compulsory lessons.
 
 ---
 
@@ -86,13 +86,15 @@
 
 **Lesson Procedure**
 
-**1. Retrieval Relay (5 minutes)**
+**1. Idiom & Retrieval Warm-Up: “Ring a Bell” (5 minutes)**
 
-- **Activity:** Teams recall the same 11 music words from short clues.
+- **Activity:** Students infer and use **ring a bell** while retrieving the same 11 music words.
 - **Instructions:**
-  1. T displays six definitions or images.
-  2. Teams write the corresponding words.
-  3. T checks answers without reteaching the definitions.
+  1. T displays several short definitions or images and asks: **“Does this ring a bell?”**
+  2. Students predict whether the expression is literal or figurative.
+  3. T reveals that **ring a bell** means “sound familiar or remind you of something.”
+  4. Teams retrieve six target words from the clues.
+  5. Students use the frame: **“_____ rings a bell because _____.”**
 
 **2. Association Deck (8 minutes)**
 
@@ -142,13 +144,15 @@
 
 **Lesson Procedure**
 
-**1. Quick Recall Warm-Up (5 minutes)**
+**1. Idiom Warm-Up: “Strike a Chord” (5 minutes)**
 
-- **Activity:** Students retrieve six words independently.
+- **Activity:** Students infer and personalise the idiom **strike a chord**.
 - **Instructions:**
-  1. T opens **Music Quick Recall**.
-  2. Students write their answers before each card is revealed.
-  3. Students correct their own answers.
+  1. T presents a short example about a song that creates a strong emotional response.
+  2. Students predict the meaning of **strike a chord**.
+  3. T confirms that it means “cause a strong emotional response.”
+  4. Students tell a partner about a song or scene that struck a chord with them.
+  5. Students use the frame: **“_____ struck a chord with me because _____.”**
 
 **2. Definition Taboo (8 minutes)**
 
@@ -185,5 +189,6 @@
   1. Students write as many of the 11 target words as they can.
   2. They add one correct collocation for three of the words.
   3. Students identify one word they will review independently.
+  4. Early finishers write one accurate sentence using **ring a bell** or **strike a chord**.
 
 **Total: 40 minutes**
