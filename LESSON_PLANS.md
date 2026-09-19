@@ -82,27 +82,31 @@
 
 **Lesson 2**
 
-**Optional Consolidation: Connection Lab & Playlist Challenge**
+**Optional Lesson 1: Connection Lab & Playlist Challenge**
 
 **Classroom Routines**
+
+- **Vocabulary website:** [Unit 1 Vocabulary Studio](https://unit1vocabulary.netlify.app/)
+- **Live idiom activity:** [Unit 1 Music Arcade](https://discover-futures-4-unit-1-music-idiom.netlify.app/)
+- **Teacher/source repository:** [Music Idioms GitHub Repository](https://github.com/sinanseden-eng/discover-futures-4-unit-1-music-idioms)
 
 **Lesson Procedure**
 
 **1. Idiom & Retrieval Warm-Up: “Ring a Bell” (5 minutes)**
 
-- **Activity:** Students infer and use **ring a bell** while retrieving the same 11 music words.
+- **Activity:** Students use a situation from the [Unit 1 Music Arcade](https://discover-futures-4-unit-1-music-idiom.netlify.app/) to infer **ring a bell** and retrieve the same 11 music words.
 - **Instructions:**
-  1. T displays several short definitions or images and asks: **“Does this ring a bell?”**
-  2. Students predict whether the expression is literal or figurative.
+  1. T opens the live Music Arcade and displays the teacher-selected **Ring a Bell** situation from the idiom question bank.
+  2. Students read the situation and predict whether the expression is literal or figurative.
   3. T reveals that **ring a bell** means “sound familiar or remind you of something.”
-  4. Teams retrieve six target words from the clues.
+  4. T displays six images or definitions from the [Unit 1 Vocabulary Studio](https://unit1vocabulary.netlify.app/), and teams retrieve the target words.
   5. Students use the frame: **“_____ rings a bell because _____.”**
 
 **2. Association Deck (8 minutes)**
 
 - **Activity:** Students strengthen personal memory links.
 - **Instructions:**
-  1. T opens the **Music Association Deck**.
+  1. T opens the **Music Association Deck** on the [Unit 1 Vocabulary Studio](https://unit1vocabulary.netlify.app/).
   2. Students choose one word from each of these groups:
      - musical elements,
      - music types,
@@ -140,19 +144,23 @@
 
 **Lesson 3**
 
-**Optional Consolidation: Vocabulary Mixing Desk**
+**Optional Lesson 2: Vocabulary Mixing Desk**
 
 **Classroom Routines**
+
+- **Vocabulary website:** [Unit 1 Vocabulary Studio](https://unit1vocabulary.netlify.app/)
+- **Live idiom activity:** [Unit 1 Music Arcade](https://discover-futures-4-unit-1-music-idiom.netlify.app/)
+- **Teacher/source repository:** [Music Idioms GitHub Repository](https://github.com/sinanseden-eng/discover-futures-4-unit-1-music-idioms)
 
 **Lesson Procedure**
 
 **1. Idiom Warm-Up: “Strike a Chord” (5 minutes)**
 
-- **Activity:** Students infer and personalise the idiom **strike a chord**.
+- **Activity:** Students use a situation from the [Unit 1 Music Arcade](https://discover-futures-4-unit-1-music-idiom.netlify.app/) to infer and personalise **strike a chord**.
 - **Instructions:**
-  1. T presents a short example about a song that creates a strong emotional response.
-  2. Students predict the meaning of **strike a chord**.
-  3. T confirms that it means “cause a strong emotional response.”
+  1. T opens the live Music Arcade and displays the teacher-selected **Strike a Chord** situation from the idiom question bank.
+  2. Students read the situation and predict the meaning of the idiom.
+  3. T confirms that **strike a chord** means “cause a strong emotional response.”
   4. Students tell a partner about a song or scene that struck a chord with them.
   5. Students use the frame: **“_____ struck a chord with me because _____.”**
 
